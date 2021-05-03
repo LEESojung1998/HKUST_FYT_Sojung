@@ -1,0 +1,12 @@
+"countfreq"
+"TP53" NA
+"KRAS" NA
+"STK11" NA
+"KEAP1" NA
+"PIK3CA" NA
+"NFE2L2" NA
+"MGA" NA
+"EGFR" NA
+"OR2W3" NA
+"CDKN2A" NA
+"NBN" NA
