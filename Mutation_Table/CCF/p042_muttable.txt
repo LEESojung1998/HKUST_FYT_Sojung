@@ -1,0 +1,2 @@
+"R1" "countfreq"
+"KRAS" "0.97" "1"
